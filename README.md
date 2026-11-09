@@ -13,10 +13,6 @@ I'm in the **MVA master (Mathématiques, Vision, Apprentissage) at ENS Paris-Sac
 
 ## Research
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/uqam-dark.svg">
-  <img align="right" width="340" alt="" src="assets/uqam-light.svg">
-</picture>
 
 ### Can EEG tell when a player is in the zone?
 <sub>UQAM, MONTRÉAL &nbsp;·&nbsp; 2026 &nbsp;·&nbsp; UBISOFT LA FORGE DATA</sub>
@@ -29,7 +25,6 @@ Absorbed play vs. rest decodes well across subjects (F1 = 0.76, leave-one-subjec
 
 **First-author paper submitted to IEEE ISCAS 2027.**
 
-<br clear="right">
 <br>
 
 
