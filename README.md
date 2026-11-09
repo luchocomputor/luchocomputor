@@ -28,6 +28,10 @@ Absorbed play vs. rest decodes well across subjects (F1 = 0.76, leave-one-subjec
 
 **First-author paper submitted to IEEE ISCAS 2027.**
 
+<p>
+<a href="https://github.com/luchocomputor/flow-state-uqam"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/code-dark.svg"><img height="30" alt="Code" src="assets/buttons/code-light.svg"></picture></a>
+</p>
+
 <br>
 
 <p>
@@ -41,7 +45,13 @@ Full-night EEG from the PhysioNet 2018 Challenge database (MGH Sleep Lab, 1,985 
 
 `Granger causality` `VAR models` `wavelets` `time-frequency analysis` `sleep EEG`
 
-**First-author [preprint on HAL](https://hal.science/hal-05377253) and poster at the International Summer Institute on Network Physiology, Lake Como, 2025.**
+**First-author preprint on HAL and poster at the International Summer Institute on Network Physiology, Lake Como, 2025.**
+
+<p>
+<a href="https://github.com/luchocomputor/Medical-Time-Series-Research-Project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/repo-dark.svg"><img height="30" alt="Repo" src="assets/buttons/repo-light.svg"></picture></a>&nbsp;
+<a href="https://hal.science/hal-05377253"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/preprint-dark.svg"><img height="30" alt="Preprint on HAL" src="assets/buttons/preprint-light.svg"></picture></a>&nbsp;
+<a href="https://github.com/luchocomputor/Medical-Time-Series-Research-Project/blob/main/POSTER.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/poster-dark.svg"><img height="30" alt="Poster" src="assets/buttons/poster-light.svg"></picture></a>
+</p>
 
 <br>
 
@@ -58,6 +68,10 @@ Decoding which image a person is looking at from their EEG, on public datasets t
 
 `EEG decoding` `image embeddings` `ridge regression` `NeuralBench`
 
+<p>
+<a href="https://neural-interfaces26.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/challenge-dark.svg"><img height="30" alt="Challenge website" src="assets/buttons/challenge-light.svg"></picture></a>
+</p>
+
 <br>
 
 <p>
@@ -73,6 +87,10 @@ Overall survival prediction for leukaemia patients from clinical and molecular d
 
 **IPCW C-index of 0.755 on the public leaderboard.**
 
+<p>
+<a href="https://github.com/luchocomputor/QRT_DataChallenge2025"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/repo-dark.svg"><img height="30" alt="Repo" src="assets/buttons/repo-light.svg"></picture></a>
+</p>
+
 <br>
 
 <p>
@@ -85,6 +103,10 @@ Overall survival prediction for leukaemia patients from clinical and molecular d
 Native app that digitises a wardrobe from photos and suggests outfits with vision and language models. About 22k lines of Swift, from data model and backend to interface.
 
 `SwiftUI` `CoreData` `Supabase` `Gemini vision`
+
+<p>
+<a href="https://github.com/luchocomputor/martha"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/repo-dark.svg"><img height="30" alt="Repo" src="assets/buttons/repo-light.svg"></picture></a>
+</p>
 
 <br>
 
@@ -134,4 +156,8 @@ Root-cause analysis of metro delays for an RATP line-automation project.
 
 <br>
 
-**[CV](https://github.com/luchocomputor/cv/blob/main/cv.pdf)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/louis-almairac)** &nbsp;·&nbsp; **[louis.almairac@enpc.fr](mailto:louis.almairac@enpc.fr)**
+<p>
+<a href="https://github.com/luchocomputor/cv/blob/main/cv.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/cv-dark.svg"><img height="30" alt="CV" src="assets/buttons/cv-light.svg"></picture></a>&nbsp;
+<a href="https://www.linkedin.com/in/louis-almairac"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/linkedin-dark.svg"><img height="30" alt="LinkedIn" src="assets/buttons/linkedin-light.svg"></picture></a>&nbsp;
+<a href="mailto:louis.almairac@enpc.fr"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/email-dark.svg"><img height="30" alt="Email" src="assets/buttons/email-light.svg"></picture></a>
+</p>
