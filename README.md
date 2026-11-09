@@ -45,11 +45,11 @@ Full-night EEG from the PhysioNet 2018 Challenge database (MGH Sleep Lab, 1,985 
 
 `Granger causality` `VAR models` `wavelets` `time-frequency analysis` `sleep EEG`
 
-**First-author preprint on HAL and poster at the International Summer Institute on Network Physiology, Lake Como, 2025.**
+**First-author working paper on HAL and poster at the International Summer Institute on Network Physiology, Lake Como, 2025.**
 
 <p>
 <a href="https://github.com/luchocomputor/Medical-Time-Series-Research-Project"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/repo-dark.svg"><img height="30" alt="Repo" src="assets/buttons/repo-light.svg"></picture></a>&nbsp;
-<a href="https://hal.science/hal-05377253"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/preprint-dark.svg"><img height="30" alt="Preprint on HAL" src="assets/buttons/preprint-light.svg"></picture></a>&nbsp;
+<a href="https://hal.science/hal-05377253"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/preprint-dark.svg"><img height="30" alt="Working paper on HAL" src="assets/buttons/preprint-light.svg"></picture></a>&nbsp;
 <a href="https://github.com/luchocomputor/Medical-Time-Series-Research-Project/blob/main/POSTER.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/poster-dark.svg"><img height="30" alt="Poster" src="assets/buttons/poster-light.svg"></picture></a>
 </p>
 

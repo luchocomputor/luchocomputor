@@ -15,7 +15,7 @@ ICONS = {  # 16x16 strokes
 BUTTONS = {
     "code": ("code", "Code"),
     "repo": ("code", "Repo"),
-    "preprint": ("doc", "Preprint"),
+    "preprint": ("doc", "HAL"),
     "poster": ("image", "Poster"),
     "challenge": ("link", "Challenge"),
     "cv": ("doc", "CV"),
