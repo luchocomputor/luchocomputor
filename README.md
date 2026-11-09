@@ -61,6 +61,15 @@ Root-cause analysis of metro delays for an RATP line-automation project.
 
 <br>
 
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luchocomputor/luchocomputor/output/contrib-dark.svg">
+  <img alt="Contribution graph over the last year" src="https://raw.githubusercontent.com/luchocomputor/luchocomputor/output/contrib-light.svg">
+</picture>
+
+<br>
+
 ## Tools
 
 <p>
