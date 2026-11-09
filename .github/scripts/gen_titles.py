@@ -8,7 +8,7 @@ SANS = "-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-se
 PAL = {"light": ("#1f2328", "#656d76", "#0969da"), "dark": ("#e6edf3", "#8b949e", "#58a6ff")}
 
 ENTRIES = {
-    "uqam": ("Can EEG tell when a player is in the zone?", ["UQAM, Montréal", "Research internship", "2026"], None),
+    "uqam": ("Can EEG tell when a player is in the zone?", ["UQAM, Montréal", "Research internship", "2026"], "Code"),
     "granger": ("How do brain regions drive each other during sleep?", ["École des Ponts", "With CNRS and Max Planck researchers", "2024-25"], "Repo"),
     "challenge": ("EEG/EMG Foundation Challenge 2026: EEG-to-Image", ["Meta, Muse and Yneuro", "In progress"], None),
     "qrt": ("QRT Data Challenge 2025", ["QRT and Institut Gustave Roussy", "2025"], "Repo"),

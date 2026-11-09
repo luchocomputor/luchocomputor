@@ -14,10 +14,10 @@ I'm in the **MVA master (Mathématiques, Vision, Apprentissage) at ENS Paris-Sac
 ## Research
 
 <p>
-<picture>
+<a href="https://github.com/luchocomputor/flow-state-uqam"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/titles/uqam-dark.svg">
   <img alt="Can EEG tell when a player is in the zone? UQAM, Montréal, research internship, 2026" src="assets/titles/uqam-light.svg">
-</picture>
+</picture></a>
 </p>
 
 26 skilled players, about 4 hours of *Apex Legends* each, recorded with a 16-channel EEG headset at Ubisoft La Forge. Flow state has no ground truth, so we built the labels from behaviour: small targets appeared at the edge of the screen, and a long run of missed targets marked a player fully absorbed in the game, contrasted with lobby rest between matches.
