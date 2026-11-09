@@ -14,8 +14,9 @@ I'm in the **MVA master (Mathématiques, Vision, Apprentissage) at ENS Paris-Sac
 - **EEG decoding of attentional engagement during gameplay** · UQAM, Montréal, on Ubisoft La Forge data<br>
   Multivariate EMD, Wigner-Ville band energies and per-mode Riemannian covariances, fused in an SVM and compared with a self-supervised encoder, evaluated leave-one-subject-out on 26 players. Control analyses (eye-tracking re-labelling, within-subject permutation tests, a battery of phase, directed-connectivity and cross-frequency features) to check what the classifier actually picks up.<br>
   **First-author paper submitted to IEEE ISCAS 2027.**
-- **Time-frequency Granger causality between EEG and ECG during sleep** · [repo](https://github.com/luchocomputor/Medical-Time-Series-Research-Project)<br>
-  Wavelet decomposition and VAR models to track state-dependent brain-heart interactions. Poster at the International Summer Institute on Network Physiology, Lake Como, 2025.
+- **Time-frequency Granger causality between EEG and ECG during sleep** · with CNRS and Max Planck Institute researchers · [repo](https://github.com/luchocomputor/Medical-Time-Series-Research-Project)<br>
+  Full-night polysomnography (PhysioNet MGH Sleep Lab 2018). VAR models fitted on stationary 40 s windows, temporal and spectral (Geweke) Granger causality, and a wavelet-based time-frequency estimate, to track how brain-heart interactions change across sleep stages.<br>
+  **First-author poster at the International Summer Institute on Network Physiology, Lake Como, 2025.**
 
 ### Projects
 
