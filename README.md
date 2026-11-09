@@ -5,9 +5,9 @@
 </picture>
 </p>
 
-I'm a student at École des Ponts, doing my final year in the MVA master (ENS Paris-Saclay). I work on machine learning for time series and biosignals, mostly EEG.
+I'm in the **MVA master (Mathématiques, Vision, Apprentissage) at ENS Paris-Saclay**, as the final year of my engineering degree at École des Ponts. I work on machine learning for time series and biosignals, mostly EEG.
 
-Looking for a 6-month research internship from April 2027.
+**Looking for a 6-month research internship from April 2027.**
 
 ### Research
 
