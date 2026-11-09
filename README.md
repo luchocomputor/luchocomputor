@@ -13,8 +13,12 @@ I'm in the **MVA master (Mathématiques, Vision, Apprentissage) at ENS Paris-Sac
 
 ## Research
 
-### Can EEG tell when a player is in the zone?
-<sub>UQAM, MONTRÉAL &nbsp;·&nbsp; RESEARCH INTERNSHIP &nbsp;·&nbsp; 2026</sub>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/uqam-dark.svg">
+  <img alt="Can EEG tell when a player is in the zone? UQAM, Montréal, research internship, 2026" src="assets/titles/uqam-light.svg">
+</picture>
+</p>
 
 26 skilled players, about 4 hours of *Apex Legends* each, recorded with a 16-channel EEG headset at Ubisoft La Forge. Flow state has no ground truth, so we built the labels from behaviour: small targets appeared at the edge of the screen, and a long run of missed targets marked a player fully absorbed in the game, contrasted with lobby rest between matches.
 
@@ -24,8 +28,14 @@ Absorbed play vs. rest decodes well across subjects (F1 = 0.76, leave-one-subjec
 
 **First-author paper submitted to IEEE ISCAS 2027.**
 
-### How do brain regions drive each other during sleep?
-<sub>ÉCOLE DES PONTS &nbsp;·&nbsp; WITH CNRS AND MAX PLANCK RESEARCHERS &nbsp;·&nbsp; 2024-25 &nbsp;·&nbsp; <a href="https://github.com/luchocomputor/Medical-Time-Series-Research-Project">REPO ↗</a></sub>
+<br>
+
+<p>
+<a href="https://github.com/luchocomputor/Medical-Time-Series-Research-Project"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/granger-dark.svg">
+  <img alt="How do brain regions drive each other during sleep? École des Ponts, with CNRS and Max Planck researchers, 2024-25" src="assets/titles/granger-light.svg">
+</picture></a>
+</p>
 
 Full-night EEG from the PhysioNet 2018 Challenge database (MGH Sleep Lab, 1,985 subjects). VAR models give temporal and spectral (Geweke) Granger causality between EEG channels, and wavelets make it time-resolved, to follow how these directed interactions change across sleep stages.
 
@@ -37,15 +47,25 @@ Full-night EEG from the PhysioNet 2018 Challenge database (MGH Sleep Lab, 1,985 
 
 ## Projects
 
-### EEG/EMG Foundation Challenge 2026: EEG-to-Image
-<sub>META, MUSE AND YNEURO &nbsp;·&nbsp; IN PROGRESS</sub>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/challenge-dark.svg">
+  <img alt="EEG/EMG Foundation Challenge 2026: EEG-to-Image. Meta, Muse and Yneuro, in progress" src="assets/titles/challenge-light.svg">
+</picture>
+</p>
 
 Decoding which image a person is looking at from their EEG, on public datasets through Meta's NeuralBench framework. First submissions: ridge regression from EEG to image embeddings, fitted on about a million EEG epochs from Alljoined.
 
 `EEG decoding` `image embeddings` `ridge regression` `NeuralBench`
 
-### QRT Data Challenge 2025
-<sub>QRT AND INSTITUT GUSTAVE ROUSSY &nbsp;·&nbsp; 2025 &nbsp;·&nbsp; <a href="https://github.com/luchocomputor/QRT_DataChallenge2025">REPO ↗</a></sub>
+<br>
+
+<p>
+<a href="https://github.com/luchocomputor/QRT_DataChallenge2025"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/qrt-dark.svg">
+  <img alt="QRT Data Challenge 2025. QRT and Institut Gustave Roussy, 2025" src="assets/titles/qrt-light.svg">
+</picture></a>
+</p>
 
 Overall survival prediction for leukaemia patients from clinical and molecular data.
 
@@ -53,8 +73,14 @@ Overall survival prediction for leukaemia patients from clinical and molecular d
 
 **IPCW C-index of 0.755 on the public leaderboard.**
 
-### Martha
-<sub>PERSONAL PROJECT &nbsp;·&nbsp; iOS &nbsp;·&nbsp; 2025-26 &nbsp;·&nbsp; <a href="https://github.com/luchocomputor/martha">REPO ↗</a></sub>
+<br>
+
+<p>
+<a href="https://github.com/luchocomputor/martha"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/martha-dark.svg">
+  <img alt="Martha. Personal project, iOS, 2025-26" src="assets/titles/martha-light.svg">
+</picture></a>
+</p>
 
 Native app that digitises a wardrobe from photos and suggests outfits with vision and language models. About 22k lines of Swift, from data model and backend to interface.
 
@@ -64,13 +90,23 @@ Native app that digitises a wardrobe from photos and suggests outfits with visio
 
 ## Experience
 
-### Caisse des Dépôts
-<sub>MACHINE LEARNING INTERN &nbsp;·&nbsp; PARIS &nbsp;·&nbsp; 2025</sub>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/cdc-dark.svg">
+  <img alt="Caisse des Dépôts. Machine learning intern, Paris, 2025" src="assets/titles/cdc-light.svg">
+</picture>
+</p>
 
 Learning-to-rank (LambdaMART) to allocate across emerging-market equity indices, with purged, embargoed time-series cross-validation against look-ahead bias.
 
-### Sopra Steria
-<sub>DATA SCIENCE INTERN &nbsp;·&nbsp; PARIS &nbsp;·&nbsp; 2024</sub>
+<br>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/sopra-dark.svg">
+  <img alt="Sopra Steria. Data science intern, Paris, 2024" src="assets/titles/sopra-light.svg">
+</picture>
+</p>
 
 Root-cause analysis of metro delays for an RATP line-automation project.
 
