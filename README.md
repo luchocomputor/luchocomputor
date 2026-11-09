@@ -9,25 +9,59 @@ I'm in the **MVA master (Mathématiques, Vision, Apprentissage) at ENS Paris-Sac
 
 **Looking for a 6-month research internship from April 2027.**
 
-### Research
+<br>
 
-- **EEG decoding of attentional engagement during gameplay** · UQAM, Montréal, on Ubisoft La Forge data<br>
-  Multivariate EMD, Wigner-Ville band energies and per-mode Riemannian covariances, fused in an SVM and compared with a self-supervised encoder, evaluated leave-one-subject-out on 26 players. Control analyses (eye-tracking re-labelling, within-subject permutation tests, a battery of phase, directed-connectivity and cross-frequency features) to check what the classifier actually picks up.<br>
-  **First-author paper submitted to IEEE ISCAS 2027.**
-- **Time-frequency Granger causality between EEG and ECG during sleep** · with CNRS and Max Planck Institute researchers · [repo](https://github.com/luchocomputor/Medical-Time-Series-Research-Project)<br>
-  Full-night polysomnography (PhysioNet MGH Sleep Lab 2018). VAR models fitted on stationary 40 s windows, temporal and spectral (Geweke) Granger causality, and a wavelet-based time-frequency estimate, to track how brain-heart interactions change across sleep stages.<br>
-  **First-author poster at the International Summer Institute on Network Physiology, Lake Como, 2025.**
+## Research
 
-### Projects
+#### Can EEG tell when a player is in the zone?
+**UQAM, Montréal** · research internship, 2026 · data from Ubisoft La Forge
 
-- **[Martha](https://github.com/luchocomputor/martha)** · native iOS app that digitises a wardrobe and suggests outfits with vision and language models. SwiftUI, CoreData, Supabase, Gemini; about 22k lines.
-- **[QRT Data Challenge 2025](https://github.com/luchocomputor/QRT_DataChallenge2025)** · survival prediction for leukaemia patients from clinical and molecular data (with Institut Gustave Roussy). IPCW C-index 0.755 on the public leaderboard.
+26 skilled players, about 4 hours of *Apex Legends* each, recorded with a 16-channel EEG headset. Flow state has no ground truth, so we built the labels from behaviour: small targets appeared at the edge of the screen, and a long run of missed targets marked a player fully absorbed in the game, contrasted with lobby rest between matches.
 
-### Previously
+Absorbed play vs. rest decodes well across subjects (F1 = 0.76, leave-one-subject-out). Control analyses with eye-tracking, permutation tests and self-supervised probes then showed what the model actually reads: a broad play-vs-rest arousal shift rather than a marker of flow itself. The paper therefore frames the target as **attentional engagement**, not flow.
 
-Machine learning intern at Caisse des Dépôts (LambdaMART learning-to-rank for emerging-market equity allocation) · data science intern at Sopra Steria.
+`EEG-Conformer (transformer)` `self-supervised encoder` `EfficientNet on time-frequency maps` `Riemannian geometry` `multivariate EMD` `Wigner-Ville` `SVM` `MNE` `pyRiemann` `PyTorch`
 
-### Tools
+**First-author paper submitted to IEEE ISCAS 2027.**
+
+<br>
+
+#### How do the brain and the heart drive each other during sleep?
+**École des Ponts** · research project, 2024-2025 · with CNRS and Max Planck Institute researchers · [repo](https://github.com/luchocomputor/Medical-Time-Series-Research-Project)
+
+Full-night polysomnography from PhysioNet (MGH Sleep Lab 2018). VAR models fitted on stationary 40 s windows give temporal and spectral (Geweke) Granger causality between EEG and ECG, and a wavelet-based estimate makes it time-resolved, to follow how brain-heart interactions change across sleep stages.
+
+`Granger causality` `VAR models` `wavelets` `time-frequency analysis` `polysomnography`
+
+**First-author poster at the International Summer Institute on Network Physiology, Lake Como, 2025.**
+
+<br>
+
+## Projects
+
+#### [Martha](https://github.com/luchocomputor/martha)
+Native iOS app that digitises a wardrobe from photos and suggests outfits with vision and language models. About 22k lines of Swift, from data model and backend to interface.
+
+`SwiftUI` `CoreData` `Supabase` `Gemini vision`
+
+#### [QRT Data Challenge 2025](https://github.com/luchocomputor/QRT_DataChallenge2025)
+Overall survival prediction for leukaemia patients from clinical and molecular data, with Institut Gustave Roussy. **IPCW C-index 0.755** on the public leaderboard.
+
+`survival analysis` `Cox models` `random survival forests` `LightGBM` `scikit-survival`
+
+<br>
+
+## Experience
+
+**Caisse des Dépôts** · machine learning intern, 2025<br>
+Learning-to-rank (LambdaMART) to allocate across emerging-market equity indices, with purged, embargoed time-series cross-validation against look-ahead bias.
+
+**Sopra Steria** · data science intern, 2024<br>
+Root-cause analysis of metro delays for an RATP line-automation project.
+
+<br>
+
+## Tools
 
 <p>
 <picture>
@@ -36,6 +70,6 @@ Machine learning intern at Caisse des Dépôts (LambdaMART learning-to-rank for 
 </picture>
 </p>
 
-[![CV](https://img.shields.io/badge/CV-PDF-0969da?style=flat-square)](https://github.com/luchocomputor/cv/blob/main/cv.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-louis--almairac-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-almairac)
-[![Email](https://img.shields.io/badge/email-louis.almairac%40enpc.fr-555?style=flat-square&logo=gmail&logoColor=white)](mailto:louis.almairac@enpc.fr)
+<br>
+
+**[CV](https://github.com/luchocomputor/cv/blob/main/cv.pdf)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/louis-almairac)** &nbsp;·&nbsp; **[louis.almairac@enpc.fr](mailto:louis.almairac@enpc.fr)**
