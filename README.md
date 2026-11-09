@@ -32,10 +32,6 @@ Absorbed play vs. rest decodes well across subjects (F1 = 0.76, leave-one-subjec
 <br clear="right">
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/granger-dark.svg">
-  <img align="left" width="300" alt="" src="assets/granger-light.svg">
-</picture>
 
 ### How do brain regions drive each other during sleep?
 <sub>ÉCOLE DES PONTS &nbsp;·&nbsp; 2024-25 &nbsp;·&nbsp; CNRS & MAX PLANCK</sub>
@@ -46,7 +42,6 @@ Full-night EEG from 1,985 subjects of the PhysioNet 2018 Challenge (MGH Sleep La
 
 **First-author [preprint on HAL](https://hal.science/hal-05377253) · poster at the International Summer Institute on Network Physiology, Lake Como, 2025.** · [repo](https://github.com/luchocomputor/Medical-Time-Series-Research-Project)
 
-<br clear="left">
 <br>
 
 ## Projects

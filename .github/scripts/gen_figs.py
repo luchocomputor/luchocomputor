@@ -40,7 +40,7 @@ def uqam(p):
     def arrow(x1, y1, x2, y2, dly=0):
         d = f"M{x1},{y1} L{x2},{y2}"
         return (f'<path d="{d}" stroke="{p["line"]}" stroke-width="1.5" fill="none" marker-end="url(#ah)"/>'
-                f'<circle r="2.6" fill="{p["acc"]}"><animateMotion dur="2.4s" begin="0s" repeatCount="indefinite" path="{d}"/></circle>')
+                )
     o.append(arrow(210, 90, 210, 112))
     # MEMD : 6 modes alignés, de la plus rapide à la plus lente
     o.append(f'<rect x="10" y="116" width="400" height="76" rx="10" fill="{p["soft"]}"/>')
@@ -160,5 +160,4 @@ def write(name, fn):
 
 OUT.mkdir(parents=True, exist_ok=True)
 write("uqam", uqam)
-write("granger", granger)
 print("ok")
