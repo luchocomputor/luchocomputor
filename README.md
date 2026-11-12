@@ -74,22 +74,6 @@ Decoding which image a person is looking at from their EEG, on public datasets t
 <br>
 
 <p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/qrt-dark.svg">
-  <img alt="QRT Data Challenge 2025. QRT and Institut Gustave Roussy, 2025" src="assets/titles/qrt-light.svg">
-</picture>
-</p>
-
-Overall survival prediction for leukaemia patients from clinical and molecular data.
-
-`survival analysis` `Cox models` `random survival forests` `LightGBM` `scikit-survival`
-
-**IPCW C-index of 0.755 on the public leaderboard.**
-
-
-<br>
-
-<p>
 <a href="https://github.com/luchocomputor/martha"><picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/titles/martha-dark.svg">
   <img alt="Martha. Personal project, iOS, 2025-26" src="assets/titles/martha-light.svg">
@@ -103,6 +87,22 @@ Native app that digitises a wardrobe from photos and suggests outfits with visio
 <p>
 <a href="https://github.com/luchocomputor/martha"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/repo-dark.svg"><img height="30" alt="Repo" src="assets/buttons/repo-light.svg"></picture></a>
 </p>
+
+<br>
+
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/qrt-dark.svg">
+  <img alt="QRT Data Challenge 2025. QRT and Institut Gustave Roussy, 2025" src="assets/titles/qrt-light.svg">
+</picture>
+</p>
+
+Overall survival prediction for leukaemia patients from clinical and molecular data.
+
+`survival analysis` `Cox models` `random survival forests` `LightGBM` `scikit-survival`
+
+**IPCW C-index of 0.755 on the public leaderboard.**
+
 
 <br>
 
