@@ -1,11 +1,11 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Louis Almairac, foundation models for brain and body signals" src="assets/banner-light.svg">
+  <img alt="Louis Almairac, machine learning for time series and brain signals" src="assets/banner-light.svg">
 </picture>
 </p>
 
-I'm in the **MVA master (Mathématiques, Vision, Apprentissage) at ENS Paris-Saclay**, as the final year of my engineering degree at École Nationale des Ponts et Chaussées. I work on foundation models and self-supervised learning for brain and physiological signals, mostly EEG, and on how they connect to vision.
+I'm in the **MVA master (Mathématiques, Vision, Apprentissage) at ENS Paris-Saclay**, as the final year of my engineering degree at École Nationale des Ponts et Chaussées. I work on machine learning for time series, mostly brain and physiological signals (EEG). Lately, I've been fine-tuning EEG foundation models and looking at how brain signals relate to vision.
 
 **Looking for a 6-month research internship from April 2027.**
 
