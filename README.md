@@ -1,13 +1,32 @@
 <p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Louis Almairac, machine learning for time series and EEG" src="assets/banner-light.svg">
+  <img alt="Louis Almairac, foundation models for brain and body signals" src="assets/banner-light.svg">
 </picture>
 </p>
 
-I'm in the **MVA master (Mathématiques, Vision, Apprentissage) at ENS Paris-Saclay**, as the final year of my engineering degree at École Nationale des Ponts et Chaussées. I work on machine learning for time series and biosignals, mostly EEG.
+I'm in the **MVA master (Mathématiques, Vision, Apprentissage) at ENS Paris-Saclay**, as the final year of my engineering degree at École Nationale des Ponts et Chaussées. I work on foundation models and self-supervised learning for brain and physiological signals, mostly EEG, and on how they connect to vision.
 
 **Looking for a 6-month research internship from April 2027.**
+
+<br>
+
+## Now
+
+<p>
+<a href="https://neural-interfaces26.github.io/"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/challenge-dark.svg">
+  <img alt="EEG/EMG Foundation Challenge 2026: EEG-to-Image. Meta FAIR Brain & AI, Alljoined, Yneuro, sealed final phase, November 2026" src="assets/titles/challenge-light.svg">
+</picture></a>
+</p>
+
+Identifying which image a person is looking at from one second of EEG, recorded with a 32-channel consumer headset, on people the model has never seen. I fine-tune REVE, an EEG foundation model pretrained on 25,000 subjects, to predict DINOv2-giant image embeddings with a contrastive loss, and ensemble the resulting models. Most of the work is about what transfers: generalisation to new subjects, noisy trials, and why some gains on a local proxy do not survive the sealed leaderboard. Experiments run on Kaggle GPUs through an agent-assisted loop I set up, with paired-bootstrap evaluation on held-out subjects.
+
+`EEG foundation models` `REVE` `DINOv2` `contrastive learning` `self-supervised learning` `PyTorch`
+
+<p>
+<a href="https://neural-interfaces26.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/challenge-dark.svg"><img height="30" alt="Challenge website" src="assets/buttons/challenge-light.svg"></picture></a>
+</p>
 
 <br>
 
@@ -55,23 +74,6 @@ Full-night EEG from the PhysioNet 2018 Challenge database (MGH Sleep Lab, 1,985 
 <br>
 
 ## Projects
-
-<p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/challenge-dark.svg">
-  <img alt="EEG/EMG Foundation Challenge 2026: EEG-to-Image. Meta, Muse and Yneuro, in progress" src="assets/titles/challenge-light.svg">
-</picture>
-</p>
-
-Decoding which image a person is looking at from their EEG, on public datasets through Meta's NeuralBench framework. First submissions: ridge regression from EEG to image embeddings, fitted on about a million EEG epochs from Alljoined.
-
-`EEG decoding` `image embeddings` `ridge regression` `NeuralBench`
-
-<p>
-<a href="https://neural-interfaces26.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/challenge-dark.svg"><img height="30" alt="Challenge website" src="assets/buttons/challenge-light.svg"></picture></a>
-</p>
-
-<br>
 
 <p>
 <a href="https://github.com/luchocomputor/martha"><picture>
