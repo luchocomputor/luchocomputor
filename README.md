@@ -25,6 +25,7 @@ Identifying which image a person is looking at from one second of EEG, recorded 
 `EEG foundation models` `REVE` `DINOv2` `contrastive learning` `self-supervised learning` `PyTorch`
 
 <p>
+<a href="https://github.com/luchocomputor/eeg-to-image-ni26"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/code-dark.svg"><img height="30" alt="Code" src="assets/buttons/code-light.svg"></picture></a>&nbsp;
 <a href="https://neural-interfaces26.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/buttons/challenge-dark.svg"><img height="30" alt="Challenge website" src="assets/buttons/challenge-light.svg"></picture></a>
 </p>
 
